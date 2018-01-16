@@ -9,7 +9,7 @@
 #                      file URL: https://d396qusza40orc.cloudfront.net/
 #                                exdata%2Fdata%2Fhousehold_power_consumption.zip
 #		
-#	Output:        plot1.png (histograme of Global Active Power)		
+#	Output:        plot4.png (2x2 array of 4 plots)		
 #
 #*******************************************************************************
 
